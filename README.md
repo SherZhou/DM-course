@@ -1,2 +1,2 @@
-# dm-class
-tasks of data mining class
+# dm-course
+tasks of data mining course
